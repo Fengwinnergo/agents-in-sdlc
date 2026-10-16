@@ -65,3 +65,4 @@ Run a browser-level smoke test for the quiz in the integrated browser. Check key
 세션의 프로젝트 및 사용량 세부 정보를 확인하고 브라우저 수준의 스모크 테스트로 퀴즈를 검증했습니다. [레슨 4: 프로젝트 지침 작성][next-lesson]을 계속 진행합니다.
 
 [next-lesson]: ../4-project-instructions/
+[publish-lesson]: ../5-publish/
